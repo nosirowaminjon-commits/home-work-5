@@ -114,3 +114,157 @@
     left: 680px;
     top: 710px;
 }
+.div4{
+    background-image: url(./mardak.svg);
+    background-position: start;
+    background-repeat: no-repeat;
+    background-size:80%;
+    height: 650px;
+    background-color: #FAECE2;
+}
+.btn2{
+    width: 70px;
+    border-radius: 50px;
+    border: 0;
+    background-color: #FC3B29;
+    color: white;
+    padding: 3px;
+    font-size: 10px;
+    height: 20px;
+    font-weight: bold;
+}
+.op p{
+    font-size: 11px;
+}
+.h1{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 300px;
+    border-radius: 5px;
+    padding: 0px 20px;
+    justify-content: space-between;
+}
+.op{
+    background-color: white;
+}
+.h{
+    background-color: #FAECE2;
+    padding-top: 50px;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px 130px;
+}
+.btn3{
+    width: 70px;
+    border-radius: 50px;
+    border: 0;
+    background-color: #FFC01D;
+    color: black;
+    padding: 3px;
+    font-size: 10px;
+    height: 20px;
+    font-weight: bold; 
+}
+.h2{
+    display: flex;
+    align-items: center;
+    background-color: #FC3B29;
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px 20px;
+    justify-content: space-between;
+    color: white;
+}
+.ig{
+    width: 180px;
+}
+.opp p{
+    font-size: 11px;
+}
+.h3{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 300px;
+    border-radius: 5px;
+    padding: 0px 20px;
+    justify-content: space-between;
+}
+.img{
+    width: 200px;
+}
+.h3 p{
+    font-size: 11px;
+}
+.ok{
+    margin-bottom: 50px;
+}
+.h5{
+    background-color: #FAECE2;
+}
+.gg{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 600px;
+    border-radius: 5px;
+    margin-left: 0px;
+    padding: 20px;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.bgr{
+    position: absolute;
+    top: 1320px;
+    left: 500px;
+
+}
+.bgr1{
+    position: absolute;
+    top: 1300px;   
+    left: 430px;
+}
+.l{
+    font-weight: 900;
+    color: #FC3B29;
+    font-size: 20px;
+}
+
+.l{
+    font-size: 20px;
+}
+.nn{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.gg1{
+    background-color: white;
+    width: 550px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+.lo{
+    font-size: 14px;
+}
+.ll{
+    font-weight: 900;
+    color: #FC3B29;
+    font-size: 20px;
+}
+.bgr3{
+    position: absolute;
+    top: 1300px;   
+    left: 1160px;
+}
+.bgr2{
+    position: absolute;
+    top: 1320px;
+    left: 1240px;
+}
