@@ -236,6 +236,11 @@
 
 .h5 {
     background-color: #FAECE2;
+    background-image: url(./mardak.svg);
+    background-position: start;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-items: start;
 }
 
 .gg {
