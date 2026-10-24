@@ -1,9 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.div{
+
+.div {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -11,14 +12,17 @@
     color: white;
     padding: 20px 150px;
 }
-.div1{
+
+.div1 {
     display: flex;
     align-items: center;
 }
-.f{
+
+.f {
     padding: 0px 15px;
 }
-.btn{
+
+.btn {
     border: 3px solid white;
     border-radius: 50px;
     padding: 5px;
@@ -28,7 +32,8 @@
     color: white;
     box-shadow: 1px 3px 20px 10px #C32A20;
 }
-.div2{
+
+.div2 {
     background-color: #FC3B29;
     color: white;
     display: flex;
@@ -38,13 +43,16 @@
     padding-top: 30px;
     padding-bottom: 50px;
 }
-.div3 h1{
+
+.div3 h1 {
     font-size: 60px;
 }
-.div3 p{
+
+.div3 p {
     font-size: 20px;
 }
-.kfcs{
+
+.kfcs {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -52,53 +60,62 @@
     padding-top: 40px;
     padding-bottom: 40px;
 }
-.p{
+
+.p {
     font-size: 13px;
     margin-left: 235px;
     margin-top: -40px;
     font-weight: bold;
 }
-.p1{
+
+.p1 {
     font-size: 13px;
     margin-left: 425px;
     margin-top: -17px;
     font-weight: bold;
 }
-.p2{
+
+.p2 {
     font-size: 13px;
     margin-left: 624px;
     margin-top: -17px;
     font-weight: bold;
 }
-.p3{
+
+.p3 {
     font-size: 13px;
     margin-left: 790px;
     margin-top: -17px;
     font-weight: bold;
 }
-.p4{
+
+.p4 {
     font-size: 13px;
     margin-left: 990px;
     margin-top: -17px;
     font-weight: bold;
 }
-.p5{
+
+.p5 {
     font-size: 13px;
     margin-left: 1180px;
     margin-top: -17px;
     font-weight: bold;
 }
-.str{
+
+.str {
     position: absolute;
     top: 800px;
     left: 100px;
 }
-.str1{
+
+.str1 {
     position: absolute;
     top: 800px;
     left: 1350px;
 }
-.btn1{
+
+.btn1 {
     border: 0;
     border-radius: 50px;
     width: 150px;
@@ -114,15 +131,17 @@
     left: 680px;
     top: 710px;
 }
-.div4{
+
+.div4 {
     background-image: url(./mardak.svg);
     background-position: start;
     background-repeat: no-repeat;
-    background-size:80%;
+    background-size: 80%;
     height: 650px;
     background-color: #FAECE2;
 }
-.btn2{
+
+.btn2 {
     width: 70px;
     border-radius: 50px;
     border: 0;
@@ -133,10 +152,12 @@
     height: 20px;
     font-weight: bold;
 }
-.op p{
+
+.op p {
     font-size: 11px;
 }
-.h1{
+
+.h1 {
     display: flex;
     align-items: center;
     background-color: white;
@@ -145,10 +166,12 @@
     padding: 0px 20px;
     justify-content: space-between;
 }
-.op{
+
+.op {
     background-color: white;
 }
-.h{
+
+.h {
     background-color: #FAECE2;
     padding-top: 50px;
     padding-left: 50px;
@@ -157,7 +180,8 @@
     justify-content: space-around;
     padding: 30px 130px;
 }
-.btn3{
+
+.btn3 {
     width: 70px;
     border-radius: 50px;
     border: 0;
@@ -166,9 +190,10 @@
     padding: 3px;
     font-size: 10px;
     height: 20px;
-    font-weight: bold; 
+    font-weight: bold;
 }
-.h2{
+
+.h2 {
     display: flex;
     align-items: center;
     background-color: #FC3B29;
@@ -178,13 +203,16 @@
     justify-content: space-between;
     color: white;
 }
-.ig{
+
+.ig {
     width: 180px;
 }
-.opp p{
+
+.opp p {
     font-size: 11px;
 }
-.h3{
+
+.h3 {
     display: flex;
     align-items: center;
     background-color: white;
@@ -193,19 +221,24 @@
     padding: 0px 20px;
     justify-content: space-between;
 }
-.img{
+
+.img {
     width: 200px;
 }
-.h3 p{
+
+.h3 p {
     font-size: 11px;
 }
-.ok{
+
+.ok {
     margin-bottom: 50px;
 }
-.h5{
+
+.h5 {
     background-color: #FAECE2;
 }
-.gg{
+
+.gg {
     display: flex;
     align-items: center;
     background-color: white;
@@ -216,32 +249,37 @@
     justify-content: space-between;
     padding-bottom: 10px;
 }
-.bgr{
+
+.bgr {
     position: absolute;
     top: 1320px;
     left: 500px;
 
 }
-.bgr1{
+
+.bgr1 {
     position: absolute;
-    top: 1300px;   
+    top: 1300px;
     left: 430px;
 }
-.l{
+
+.l {
     font-weight: 900;
     color: #FC3B29;
     font-size: 20px;
 }
 
-.l{
+.l {
     font-size: 20px;
 }
-.nn{
+
+.nn {
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.gg1{
+
+.gg1 {
     background-color: white;
     width: 550px;
     display: flex;
@@ -250,69 +288,82 @@
     border-radius: 5px;
     justify-content: space-between;
 }
-.lo{
+
+.lo {
     font-size: 14px;
 }
-.ll{
+
+.ll {
     font-weight: 900;
     color: #FC3B29;
     font-size: 20px;
 }
-.bgr3{
+
+.bgr3 {
     position: absolute;
-    top: 1300px;   
+    top: 1300px;
     left: 1160px;
 }
-.bgr2{
+
+.bgr2 {
     position: absolute;
     top: 1320px;
     left: 1240px;
 }
-.j{
+
+.j {
     background-color: #FFB83A;
     color: white;
     padding: 50px;
     padding-left: 600px;
 }
-.h5{
+
+.h5 {
     padding-bottom: 150px;
 }
-.dd{
+
+.dd {
     position: absolute;
     top: 1550px;
     left: 250px;
 }
-.d{
+
+.d {
     position: absolute;
     top: 1510px;
     left: 65px;
     z-index: 1;
 }
 
-.ss h1{
+.ss h1 {
     padding-top: 100px;
     font-size: 50px;
     padding-left: 200px;
 }
-.ss p{
+
+.ss p {
     padding-left: 220px;
 }
-.ss1{
+
+.ss1 {
     background-color: #FAECE2;
 }
-.floyd{
+
+.floyd {
     font-weight: bold;
 }
-.kj{
+
+.kj {
     background-color: white;
     width: 230px;
-    padding: 10px 30px ;
+    padding: 10px 30px;
     border-radius: 10px;
-    margin-left: 450px;   
+    margin-left: 450px;
     height: 300px;
-    align-items: center; 
+    align-items: center;
 }
-.as{
+
+.as {
     background-color: white;
     width: 300px;
     padding: 10px 20px;
@@ -321,11 +372,13 @@
     border-radius: 10px;
     align-items: center;
 }
-.ss1{
+
+.ss1 {
     background-color: #FAECE2;
     height: 650px;
 }
-.as1{
+
+.as1 {
     background-color: white;
     width: 300px;
     border-radius: 10px;
@@ -333,7 +386,8 @@
     margin-left: 750px;
     margin-top: 50px;
 }
-.ff{
+
+.ff {
     display: flex;
     align-items: center;
     background-color: #F02228;
@@ -341,40 +395,47 @@
     padding: 20px;
     justify-content: space-evenly;
 }
-.fv{
+
+.fv {
     display: flex;
     gap: 50px;
     background-color: #202329;
     color: white;
     padding: 50px 150px;
 }
-.inp{
+
+.inp {
     border: 0;
     border-radius: 5px;
     background-color: #4D4F54;
     padding: 10px 20px;
 }
-.inp::placeholder{
+
+.inp::placeholder {
     color: white;
 
 }
-.sm{
+
+.sm {
     position: absolute;
     top: 2763px;
     left: 610px;
 }
-.mard{
+
+.mard {
     position: absolute;
     width: 300px;
     left: 1200px;
     top: 2730px;
 }
-.pps{
+
+.pps {
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.pps{
+
+.pps {
     gap: 650px;
     position: absolute;
     color: white;
