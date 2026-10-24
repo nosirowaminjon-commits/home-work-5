@@ -246,7 +246,7 @@
     width: 550px;
     display: flex;
     align-items: center;
-    padding: 20px;
+    padding: 15px 20px;
     border-radius: 5px;
     justify-content: space-between;
 }
@@ -267,4 +267,24 @@
     position: absolute;
     top: 1320px;
     left: 1240px;
+}
+.j{
+    background-color: #FFB83A;
+    color: white;
+    padding: 50px;
+    padding-left: 600px;
+}
+.h5{
+    padding-bottom: 150px;
+}
+.dd{
+    position: absolute;
+    top: 1550px;
+    left: 250px;
+}
+.d{
+    position: absolute;
+    top: 1510px;
+    left: 65px;
+    z-index: 1;
 }
