@@ -341,3 +341,44 @@
     padding: 20px;
     justify-content: space-evenly;
 }
+.fv{
+    display: flex;
+    gap: 50px;
+    background-color: #202329;
+    color: white;
+    padding: 50px 150px;
+}
+.inp{
+    border: 0;
+    border-radius: 5px;
+    background-color: #4D4F54;
+    padding: 10px 20px;
+}
+.inp::placeholder{
+    color: white;
+
+}
+.sm{
+    position: absolute;
+    top: 2763px;
+    left: 610px;
+}
+.mard{
+    position: absolute;
+    width: 300px;
+    left: 1200px;
+    top: 2730px;
+}
+.pps{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pps{
+    gap: 650px;
+    position: absolute;
+    color: white;
+    top: 2960px;
+    padding: 0px 20px;
+    left: 130px;
+}
